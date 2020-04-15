@@ -1,0 +1,23 @@
+---
+title: "Who Wrote the Federalist Papers?"
+author: "Ben Harwood"
+date: "2/6/2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+     During the recent impeachment trial, members from the House and members of the President's defense team repeatedly referenced various Federalist papers. W
+  
+# Section 1: Analysis and Models
+#### 1.1: About the Data
+#### 1.2 Analysis
+
+# Section 2: Results
+
+# Conclusion

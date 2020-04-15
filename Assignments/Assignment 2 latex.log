@@ -1,0 +1,283 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  16 MAR 2020 17:27
+entering extended mode
+**"./Assignment 2 latex.tex"
+("Assignment 2 latex.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjustbo
+x.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval.t
+ex"))
+\XKV@depth=\count88
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjcalc.
+sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\trimclip
+.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\collect
+box.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box27
+)
+\tc@llx=\dimen105
+\tc@lly=\dimen106
+\tc@urx=\dimen107
+\tc@ury=\dimen108
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc-pdfte
+x.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen109
+\adjbox@Height=\dimen110
+\adjbox@Depth=\dimen111
+\adjbox@Totalheight=\dimen112
+\adjbox@pwidth=\dimen113
+\adjbox@pheight=\dimen114
+\adjbox@pdepth=\dimen115
+\adjbox@ptotalheight=\dimen116
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpag
+e.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count89
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth.
+sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box28
+\sift@deathcycles=\count90
+\@vwid@loff=\dimen117
+\@vwid@roff=\dimen118
+))
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen119
+\ar@mcellbox=\box29
+\extrarowheight=\dimen120
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box30
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip45
+\multirow@cntb=\count91
+\multirow@dima=\skip46
+\bigstrutjot=\dimen121
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eurosym\eurosym.st
+y"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box31
+) ("Assignment 2 latex.aux")
+\openout1 = `"Assignment 2 latex.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen122
+\scratchbox=\box32
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen123
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\kymag\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+ [1{C:/Users/kymag/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+[2]
+Overfull \hbox (102.51224pt too wide) in paragraph at lines 185--220
+ [][] 
+ []
+
+
+Overfull \hbox (10.64502pt too wide) in paragraph at lines 333--346
+ [][] 
+ []
+
+
+Overfull \hbox (103.86197pt too wide) in paragraph at lines 351--360
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3] [4] [5] [6] [7] [8] ("Assignment 2 latex.aux") ) 
+Here is how much of TeX's memory you used:
+ 2592 strings out of 492945
+ 41118 string characters out of 3126252
+ 174254 words of memory out of 3000000
+ 6458 multiletter control sequences out of 15000+200000
+ 6507 words of font info for 24 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,17n,43p,291b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/kymag/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/kyma
+g/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+C:/Users/kymag/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Users/kymag/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi5.pfb><C:/Users/kymag/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/kymag/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kymag/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/kymag/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/kymag/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><C:/Users/kymag/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/kymag/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy5.pfb><C:/Users/kymag/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kymag/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
+Output written on "Assignment 2 latex.pdf" (8 pages, 159151 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
